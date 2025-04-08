@@ -3,8 +3,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/MarcCyberSecurityTest/LabURL)
-  - [Hello World!]
+  - [Active Directory Home Lab](https://github.com/Mnowlin13/ActiveDirectoryLab)
+  - [Hello World!](https://github.com/Mnowlin13/ActiveDirectoryLab)
 
 <h2> Certifications </h2>
 
